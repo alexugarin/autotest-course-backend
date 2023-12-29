@@ -1,0 +1,16 @@
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (1, '2023-11-15T17:13:34.060+00:00', '5', '2', '+', 10, 10);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (2, '2023-11-16T17:13:34.060+00:00', '5', '2', '/', 10, 10);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (3, '2023-11-17T17:13:34.060+00:00', '5', '2', '*', 10, 10);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (4, '2023-11-18T17:13:34.060+00:00', '5', '2', '-', 10, 10);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (5, '2023-11-19T17:13:34.060+00:00', '5', '2', '+', 8, 8);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (6, '2023-11-20T17:13:34.060+00:00', '5', '2', '/', 8, 8);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (7, '2023-11-21T17:13:34.060+00:00', '5', '2', '*', 8, 8);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (8, '2023-11-22T17:13:34.060+00:00', '5', '2', '-', 8, 8);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (9, '2023-11-22T17:13:34.060+00:00', '101', '11', '+', 2, 2);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (10, '2023-11-23T17:13:34.060+00:00', '101', '11', '/', 2, 2);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (11, '2023-11-24T17:13:34.060+00:00', '101', '11', '*', 2, 2);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (12, '2023-11-25T17:13:34.060+00:00', '101', '11', '-', 2, 2);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (13, '2023-11-25T17:13:34.060+00:00', '1A', '11', '+', 16, 16);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (14, '2023-11-25T17:13:34.060+00:00', '1A', '11', '/', 16, 16);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (15, '2023-11-25T17:13:34.060+00:00', '1A', '11', '*', 16, 16);
+insert into calc (id, calc_date, number_a, number_b, operation, system_a, system_b) values (16, '2023-11-25T17:13:34.060+00:00', '1A', '11', '-', 16, 16);

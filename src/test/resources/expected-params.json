@@ -1,0 +1,25 @@
+[ {
+  "id" : 2053,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "+",
+  "calcDate" : 1702901705206
+}, {
+  "id" : 2103,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "+",
+  "calcDate" : 1702901795846
+}, {
+  "id" : 2153,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "+",
+  "calcDate" : 1702902348464
+} ]

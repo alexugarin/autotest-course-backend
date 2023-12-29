@@ -1,0 +1,97 @@
+[ {
+  "id" : 2052,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "*",
+  "calcDate" : 1702901705115
+}, {
+  "id" : 2053,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "+",
+  "calcDate" : 1702901705206
+}, {
+  "id" : 2054,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "-",
+  "calcDate" : 1702901705216
+}, {
+  "id" : 2055,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "/",
+  "calcDate" : 1702901705223
+}, {
+  "id" : 2102,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "*",
+  "calcDate" : 1702901795741
+}, {
+  "id" : 2103,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "+",
+  "calcDate" : 1702901795846
+}, {
+  "id" : 2104,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "-",
+  "calcDate" : 1702901795857
+}, {
+  "id" : 2105,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "/",
+  "calcDate" : 1702901795865
+}, {
+  "id" : 2152,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "*",
+  "calcDate" : 1702902348329
+}, {
+  "id" : 2153,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "+",
+  "calcDate" : 1702902348464
+}, {
+  "id" : 2154,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "-",
+  "calcDate" : 1702902348473
+}, {
+  "id" : 2155,
+  "numberA" : "5",
+  "systemA" : "10",
+  "numberB" : "2",
+  "systemB" : "10",
+  "operation" : "/",
+  "calcDate" : 1702902348479
+} ]
